@@ -1,0 +1,10 @@
+ADC:
+https://www.digikey.com/en/products/detail/texas-instruments/ADS58B19IRGZT/13449907
+
+MCU:
+https://www.digikey.com/en/products/detail/stmicroelectronics/STM32F100C4T7B/4357258?s=N4IgTCBcDaIMoBUCyBmMAxAjABmwYQBYEB2AIRAF0BfIA
+
+FPGA:
+https://www.digikey.com/en/products/detail/xilinx-inc/XC7A100T-2FGG484C/3925809
+https://www.xilinx.com/support/package-pinout-files/artix-7-pkgs.html
+https://www.xilinx.com/support/packagefiles/a7packages/xc7a75tfgg484pkg.txt
